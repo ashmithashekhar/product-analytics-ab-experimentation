@@ -195,12 +195,6 @@ python visualize_experiment.py
 
 ---
 
-## How to Explain This Project (Interview Ready)
-
-> "I built an end-to-end A/B experimentation analytics pipeline. I designed a PostgreSQL schema for product event data, computed funnel metrics and conversion uplift using SQL, evaluated statistical significance with z-scores, and visualized experiment performance using Python. The project mirrors how real product analytics teams measure experiment impact and communicate results to stakeholders."
-
----
-
 ## Future Improvements
 
 * Add confidence intervals and p-values
